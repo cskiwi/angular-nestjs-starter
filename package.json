@@ -81,9 +81,9 @@
     "webpack-cli": "^5.1.4"
   },
   "engines": {
-    "node": "20"
+    "node": "22"
   },
   "volta": {
-    "node": "20.15.0"
+    "node": "22.21.0"
   }
 }
